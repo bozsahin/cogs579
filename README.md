@@ -1,4 +1,4 @@
-# cogs579
+# cogs579 Spring 2021
 
 METU course on Philosophy of Computer Science
 
@@ -45,7 +45,7 @@ w13-14: Where is computer science in the cycle of scientific revolutions?
 Rapaport, William (2020). Philosophy of Computer Science. OpenLibra.
 
 The textbook is great for bringing yourself up to speed for the course,
-if (a) you know computes but not philosophy, (b) you know philosophy
+if (a) you know computers but not philosophy, (b) you know philosophy
 but not computers. This much I will assume to be common background.
 
 The ethic part is the one we will cover in class.
