@@ -44,9 +44,7 @@ w11-12: Digital ethics and the human in the loop
 w13-14: Where is computer science in the cycle of scientific revolutions?
 
 
-<b>Course Textbook</b>
-
-Rapaport, William (2020). Philosophy of Computer Science. OpenLibra.
+<b>Course Textbook</b> Rapaport, William (2020). Philosophy of Computer Science. OpenLibra.
 
 The textbook is great for bringing yourself up to speed for the course,
 if (a) you know computers but not philosophy, (b) you know philosophy
