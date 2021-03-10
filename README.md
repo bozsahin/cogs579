@@ -86,7 +86,11 @@ The ethic part is the one we will cover in class.
 
 <b>Course Conduct</b>
 
-formal and informal lectures; paper reading/presentation and discussion in class; essay writing on and off class.
+Formal and informal lectures; paper reading/presentation and discussion in class; essay writing on and off class.
+
+There is a discussion group. Membership is required for registered students. All quiz, etc. are announced there.
+
+student conduct: METU student code applies. All quiz, exam etc. are expected to be individual <em>effort</em> and wording.
 
 <b>Grading</b>
 
