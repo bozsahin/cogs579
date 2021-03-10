@@ -46,7 +46,7 @@ Rapaport, William (2020). Philosophy of Computer Science. OpenLibra.
 
 The textbook is great for bringing yourself up to speed for the course,
 if (a) you know computers but not philosophy, (b) you know philosophy
-but not computers. This much I will assume to be common background.
+but not computers. A bit of both I will assume to be common background.
 
 The ethic part is the one we will cover in class.
 
