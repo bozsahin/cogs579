@@ -4,6 +4,10 @@ METU course on Philosophy of Computer Science
 
 This is the web home when I teach it. This page is the course syllabus.
 
+<b>Lecturer</b> Cem Bozsahin (Spring 2021)
+
+<b>TA</b> Firat Oter (Spring 2021)
+
 <b>Catalog Content and Description</b>
 
 Philosophical questions in the practice of computer science in relation to AI and philosophy: what is a computer; what kind of science is computer science; what are the terms of computationalist explanations; are digital and analog computers different in kind; does nature compute? computers and exploration; ethics of computers with or without human in the loop; meta-activity of programming; paradigms of thinking in computer science.
