@@ -20,9 +20,43 @@ The course aims to bring together advanced undergraduates and graduates of philo
 you not to take this course. Using libraries or studying someoneelse'e code do not
 count as programming experience in my book. You have to be in programmer's shoes in this course.</em>
 
+
 <b>Course Objectives</b>
 
 At the end of the course, students are expected to assess (a) the potential role of computers in scientific explanation, (b) the nature of computing (algorithms, analogs, etc.), (c) ethical aspects with and without human in the loop, (d) conceptual problems related to computer science.
+
+<b>Main readings</b>
+
+1. A. Newell, H. Simon (1976). Computer Science as an empirical inquiry. CACM 19: 113-126.
+
+2. H. Simon (1969). The sciences of the artificial. MIT Press.
+
+3. L. Floridi (1999). Philosophy and Information. Routledge.
+
+4. Raymond Turner (2008). The philosophy of computer science. Journal of Applied Logic 6:459.
+
+5. Scot Aaronson. Why should philosophers care about computational complexity. In Computability: Gödel, Turing, Church, and beyond. Copeland, Posy, Shagrir (eds). MIT Press.
+
+6. C. Bozsahin, (2018). Computers aren’t syntax all the way down or content all the way up. Minds & Machines 28:543-567.
+
+7. C. Bozsahin (2016). Natural recursion doesn’t work that way. in Fundamental Issues of Artifical Intelligence, V. Mueller (ed.), Springer
+
+8. C. Bozsahin (2016). What is a computational constraint? In Computing & Philosophy, p.3-16, V. Muller (ed.), Springer.
+
+9. R. Hill(2014). What an algorithm is. Philosophy & Technology 29.1:35-59, 2016.
+
+10. C. Horsman, S. Stepney S, R. Wagner R, V. Kendon. (2014). When does a physical system compute? Proc.     Royal Society A, 470:20140182.
+
+11. D. Knuth (1996). Selected Papers on Computer Science, CSLI.
+
+12. P. Cockshott, L.M. Mackenzie, G. Michaelson (2012). Computation and its limits. Oxford UP.
+
+13. D. McDermott (2016). GOFAI considered harmful (and mythical). Ms.
+
+14. D. Deutsch,  C. Marletto (2014). Constructor theory of information. Proc. Royal Society, A:471, 20140540.
+
+15. E. Rieffel, P. Wolfgang (2000). An introduction to quantum computing for non-physicists. ACM Computing Surveys, 32:3, 300-335.
+
 
 <b>Course Outline</b> (NB. main readings for weekly reads; 0 is textbook)
 
@@ -60,37 +94,6 @@ but not computers. A bit of both I will assume to be common background.
 
 The ethic part is the one we will cover in class.
 
-<b>Main readings</b>
-
-1. A. Newell, H. Simon (1976). Computer Science as an empirical inquiry. CACM 19: 113-126.
-
-2. H. Simon (1969). The sciences of the artificial. MIT Press.
-
-3. L. Floridi (1999). Philosophy and Information. Routledge.
-
-4. Raymond Turner (2008). The philosophy of computer science. Journal of Applied Logic 6:459.
-
-5. Scot Aaronson. Why should philosophers care about computational complexity. In Computability: Gödel, Turing, Church, and beyond. Copeland, Posy, Shagrir (eds). MIT Press.
-
-6. C. Bozsahin, (2018). Computers aren’t syntax all the way down or content all the way up. Minds & Machines 28:543-567.
-
-7. C. Bozsahin (2016). Natural recursion doesn’t work that way. in Fundamental Issues of Artifical Intelligence, V. Mueller (ed.), Springer
-
-8. C. Bozsahin (2016). What is a computational constraint? In Computing & Philosophy, p.3-16, V. Muller (ed.), Springer.
-
-9. R. Hill(2014). What an algorithm is. Philosophy & Technology 29.1:35-59, 2016.
-
-10. C. Horsman, S. Stepney S, R. Wagner R, V. Kendon. (2014). When does a physical system compute? Proc.     Royal Society A, 470:20140182.
-
-11. D. Knuth (1996). Selected Papers on Computer Science, CSLI.
-
-12. P. Cockshott, L.M. Mackenzie, G. Michaelson (2012). Computation and its limits. Oxford UP.
-
-13. D. McDermott (2016). GOFAI considered harmful (and mythical). Ms.
-
-14. D. Deutsch,  C. Marletto (2014). Constructor theory of information. Proc. Royal Society, A:471, 20140540.
-
-15. E. Rieffel, P. Wolfgang (2000). An introduction to quantum computing for non-physicists. ACM Computing Surveys, 32:3, 300-335.
 
 <b>Course Conduct</b>
 
