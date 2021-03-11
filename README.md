@@ -80,9 +80,7 @@ w1-2: Why philosophers should care about computer science,
 w3-4: The compute cycle: encoding and decoding versus interpretation
  (5; 10; 13)
 
-w5-6: Representation and computers: Does nature compute?
-
-(8; 14; 12:ch.5)
+w5-6: Representation and computers: Does nature compute? (8; 14; 12:ch.5)
 
 
 w7: The digital/analog dichotomy fallacy: what is a computer?
