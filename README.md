@@ -75,7 +75,7 @@ The ethic part is the one we will cover in class.
 (NB. main readings for weekly reads; 0 is textbook)
 
 Weeks1-2: Why philosophers should care about computer science, 
-         and computer scientists should care about philosophy (0:ch.1-3; 11:ch.0-1; 12:ch.2)
+         and computer scientists should care about philosophy (0:ch.1-3; 11:ch.0-1; 12:ch.1-2)
 
 W3-4: The compute cycle: encoding and decoding versus interpretation
  (5; 10; 13)
