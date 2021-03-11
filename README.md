@@ -70,7 +70,9 @@ The ethic part is the one we will cover in class.
 15. E. Rieffel, P. Wolfgang (2000). An introduction to quantum computing for non-physicists. ACM Computing Surveys, 32:3, 300-335.
 
 
-<b>Course Outline</b> (NB. main readings for weekly reads; 0 is textbook)
+<b>Course Outline</b> 
+
+(NB. main readings for weekly reads; 0 is textbook)
 
 w1-2: Why philosophers should care about computer science, 
          and computer scientists about philosophy (0:ch.1-3; 11:ch.0-1; 12:ch.2)
