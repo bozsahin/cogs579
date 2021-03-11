@@ -24,24 +24,32 @@ count as programming experience in my book. You have to be in programmer's shoes
 
 At the end of the course, students are expected to assess (a) the potential role of computers in scientific explanation, (b) the nature of computing (algorithms, analogs, etc.), (c) ethical aspects with and without human in the loop, (d) conceptual problems related to computer science.
 
-<b>Course Outline</b>
+<b>Course Outline</b> (NB. main readings for weekly reads; 0 is textbook)
 
-w1-3:Why philosophers should care about computer science, 
-         and computer scientists about philosophy 
+w1-2: Why philosophers should care about computer science, 
+         and computer scientists about philosophy (0:ch.1-3; 11:ch.0-1; 12:ch.2)
 
-w4-5: The compute cycle: encoding and decoding versus interpretation
+w3-4: The compute cycle: encoding and decoding versus interpretation
+ (5; 10; 13)
 
-w6: Representation and computers: Does nature compute?
+w5-6: Representation and computers: Does nature compute?
+
+(8; 14; 12:ch.5)
+
 
 w7: The digital/analog dichotomy fallacy: what is a computer?
+(0:ch.6; 6; 3:ch.24)
 
-W8: Physics and computers: Is information an observable? 
+w8-9: Where is computer science in the cycle of scientific revolutions?
+(1; 2; 3:ch.23)
 
-W9-10: Exploration with the computer (complexity, algorithmic discovery, heuristics)
+w10-11: Digital ethics and the human in the loop
+(0:part V; 3:ch.5)
 
-w11-12: Digital ethics and the human in the loop
+W12: Physics and computers: Is information an observable? 
+(14; 15)
 
-w13-14: Where is computer science in the cycle of scientific revolutions?
+W13-14: Exploration with the computer: complexity, algorithmic discovery, heuristics (3:ch.23; 4; 6; 9)
 
 
 <b>Course Textbook</b> Rapaport, William (2020). Philosophy of Computer Science. OpenLibra.
