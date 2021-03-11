@@ -25,6 +25,16 @@ count as programming experience in my book. You have to be in programmer's shoes
 
 At the end of the course, students are expected to assess (a) the potential role of computers in scientific explanation, (b) the nature of computing (algorithms, analogs, etc.), (c) ethical aspects with and without human in the loop, (d) conceptual problems related to computer science.
 
+
+<b>Course Textbook</b> Rapaport, William (2020). Philosophy of Computer Science. OpenLibra.
+
+The textbook is great for bringing yourself up to speed for the course,
+if (a) you know computers but not philosophy, (b) you know philosophy
+but not computers. A bit of both I will assume to be common background.
+
+The ethic part is the one we will cover in class.
+
+
 <b>Main readings</b>
 
 1. A. Newell, H. Simon (1976). Computer Science as an empirical inquiry. CACM 19: 113-126.
@@ -85,14 +95,6 @@ W12: Physics and computers: Is information an observable?
 
 W13-14: Exploration with the computer: complexity, algorithmic discovery, heuristics (3:ch.23; 4; 6; 9)
 
-
-<b>Course Textbook</b> Rapaport, William (2020). Philosophy of Computer Science. OpenLibra.
-
-The textbook is great for bringing yourself up to speed for the course,
-if (a) you know computers but not philosophy, (b) you know philosophy
-but not computers. A bit of both I will assume to be common background.
-
-The ethic part is the one we will cover in class.
 
 
 <b>Course Conduct</b>
