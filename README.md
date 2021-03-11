@@ -43,7 +43,7 @@ The ethic part is the one we will cover in class.
 
 2. H. Simon (1969). The sciences of the artificial. MIT Press.
 
-3. L. Floridi (1999). Philosophy and Information. Routledge.
+3. L. Floridi (2004). The Philosophy of Computing and Information. Blackwell.
 
 4. Raymond Turner (2008). The philosophy of computer science. Journal of Applied Logic 6:459.
 
