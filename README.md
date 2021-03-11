@@ -109,7 +109,7 @@ Student conduct: METU student code applies. All quiz, exam etc. are expected to 
 
 <b>Grading</b>
 
-Term report, presentation, weekly quizzes, discussion. All equal weight.
+Term report, presentation, weekly quizzes, discussion. Quizzes account for 40% of total grade; others equal weight.
 
 -Cem Bozsahin
 
