@@ -74,22 +74,22 @@ The ethic part is the one we will cover in class.
 
 (NB. main readings for weekly reads; 0 is textbook)
 
-w1-2: Why philosophers should care about computer science, 
+Weeks1-2: Why philosophers should care about computer science, 
          and computer scientists should care about philosophy (0:ch.1-3; 11:ch.0-1; 12:ch.2)
 
-w3-4: The compute cycle: encoding and decoding versus interpretation
+W3-4: The compute cycle: encoding and decoding versus interpretation
  (5; 10; 13)
 
-w5-6: Representation and computers: Does nature compute? (8; 14; 12:ch.5)
+W5-6: Representation and computers: Does nature compute? (8; 14; 12:ch.5)
 
 
-w7: The digital/analog dichotomy fallacy: what is a computer?
+W7: The digital/analog dichotomy fallacy: what is a computer?
 (0:ch.6; 6; 3:ch.24)
 
-w8-9: Where is computer science in the cycle of scientific revolutions?
+W8-9: Where is computer science in the cycle of scientific revolutions?
 (1; 2; 3:ch.23)
 
-w10-11: Digital ethics and the human in the loop
+W10-11: Digital ethics and the human in the loop
 (0:part V; 3:ch.5)
 
 W12: Physics and computers: Is information an observable? 
