@@ -37,7 +37,9 @@ but not computers. A bit of both I will assume to be common background.
 The ethic part is the one we will cover in class.
 
 
-<b>Main readings</b> <em>auditorem non adiutorem</em>---Aaron Garrett
+<b>Main readings</b> 
+
+<em>auditorem non adiutorem</em>---Aaron Garrett
 
 1. A. Newell, H. Simon (1976). Computer Science as an empirical inquiry. CACM 19: 113-126.
 
