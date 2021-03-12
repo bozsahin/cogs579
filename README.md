@@ -37,7 +37,7 @@ but not computers. A bit of both I will assume to be common background.
 The ethic part is the one we will cover in class.
 
 
-<b>Main readings</b>
+<b>Main readings</b> <em>auditorem non adiutorem</em>---Aaron Garrett
 
 1. A. Newell, H. Simon (1976). Computer Science as an empirical inquiry. CACM 19: 113-126.
 
@@ -95,7 +95,7 @@ W10-11: Digital ethics and the human in the loop
 W12: Physics and computers: Is information an observable? 
 (3:ch.13; 14; 15)
 
-W13-14: Exploration with the computer: complexity, algorithmic discovery, heuristics (4; 6; 7; 9; 11:ch.4)
+W13-14: Exploration with the computer: complexity, algorithmic discovery, heuristics (3:ch.7,8,18; 4; 6; 7; 9; 11:ch.4)
 
 
 
