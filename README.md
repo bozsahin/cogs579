@@ -97,7 +97,7 @@ W10-11: Digital ethics and the human in the loop
 W12: Physics and computers: Is information an observable? 
 (3:ch.13; 14; 15)
 
-W13-14: Exploration with the computer: complexity, algorithmic discovery, heuristics (3:ch.7,8,18; 4; 6; 7; 9; 11:ch.4)
+W13-14: Exploration with the computer: complexity, algorithmic discovery, heuristics (3:ch.7/8/18; 4; 6; 7; 9; 11:ch.4)
 
 
 
