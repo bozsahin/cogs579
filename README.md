@@ -82,8 +82,9 @@ Weeks1-2: Why philosophers should care about computer science,
 W3-4: Programs in our lives; the compute cycle: encoding and decoding versus interpretation
  (10; 13)
 
-W5-6: Representation and computers: Does nature compute? (5; 8; 12:ch.5)
+W5:  Does nature compute?  Representation and computers (7)
 
+W6: Philosophy and computational complexity (5; 8)
 
 W7: The digital/analog dichotomy fallacy: what is a computer?
 (0:ch.6; 6; 3:ch.24)
