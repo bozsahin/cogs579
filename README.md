@@ -43,7 +43,7 @@ Rapaport, William (2020). Philosophy of Computer Science. OpenLibra.
 
 The textbook is great for bringing yourself up to speed for the course,
 if (a) you know computers but not philosophy, (b) you know philosophy
-but not computers. A bit of both I will assume to be common background.
+but not how computers relate to it. A bit of both I will assume to be common background.
 
 The ethic part is the one we will cover in class.
 
@@ -78,7 +78,7 @@ The ethic part is the one we will cover in class.
 
 13. D. McDermott (2016). GOFAI considered harmful (and mythical). Ms.
 
-14. D. Deutsch,  C. Marletto (2014). Constructor theory of information. Proc. Royal Society, A:471, 20140540.
+14. P. Wadler (1997). How to declare and imperative. ACM Computing Surveys, 29:3, 240-263.
 
 15. E. Rieffel, P. Wolfgang (2000). An introduction to quantum computing for non-physicists. ACM Computing Surveys, 32:3, 300-335.
 
