@@ -78,7 +78,7 @@ The ethic part is the one we will cover in class.
 
 13. D. McDermott (2016). GOFAI considered harmful (and mythical). Ms.
 
-14. P. Wadler (1997). How to declare and imperative. ACM Computing Surveys, 29:3, 240-263.
+14. P. Wadler (1997). How to declare an imperative. ACM Computing Surveys, 29:3, 240-263.
 
 15. E. Rieffel, P. Wolfgang (2000). An introduction to quantum computing for non-physicists. ACM Computing Surveys, 32:3, 300-335.
 
