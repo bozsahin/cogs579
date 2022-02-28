@@ -88,14 +88,16 @@ The ethic part is the one we will cover in class.
 (NB. main readings for references to weekly reads. Number 0 is the textbook.)
 
 W1-2: Why philosophers should care about computer science, 
-         and computer scientists should care about philosophy (0:ch.1-3; 3:ch.1; 11:ch.0-1; 12:ch.1-2)
+         and computer scientists should care about philosophy (0:ch.1-3; 3:ch.1; 11:ch.0-1)
 
 W3-4: Programs in our lives; the compute cycle: encoding and decoding versus interpretation
  (10; 13)
 
-W5:  Does nature compute?  Representation and computers (7)
+W5:  Does nature compute?  Representation, the monad  and the computer (7; 14)
 
 W6: Philosophy and computational complexity (5; 8)
+
+(the rest is SUBJECT TO CHANGE per term)
 
 W7: The digital/analog dichotomy fallacy: what is a computer?
 (0:ch.6; 6; 3:ch.24)
