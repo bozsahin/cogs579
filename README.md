@@ -11,7 +11,7 @@ This is the web home when I teach it. This page is the course syllabus.
 <b>For registration:</b> I will open the course to COGS students during registration, and to
 all other students during add-drop. HOWEVER, TO ATTEND THE FIRST MEETING BEFORE ADD-DROP, PLEASE
 SEND ME AN EMAIL DETAILING YOUR PROGRAMMING EXPERIENCE AND INTEREST. I WILL SEND YOU THE LOCATION
-AND ONLINE MATERIAL DETAIL. It is always inportant to attend the first meeting.
+AND ONLINE MATERIAL DETAIL. It is important to attend the first meeting.
 
 <b>Catalog Content and Description</b>
 
