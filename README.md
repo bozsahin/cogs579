@@ -4,6 +4,8 @@ METU course on Philosophy of Computer Science
 
 This is the web home when I teach it. This page is the course syllabus.
 
+<b>Lectures</b> Tuesdays, 11.40-14.30, at room S03 of the Informatics Institute
+
 <b>Lecturer</b> Cem Bozsahin (Spring 2022)
 
 <b>TA</b> TBA
