@@ -1,12 +1,17 @@
-# cogs579 Spring 2021
+# cogs579 Spring 2022
 
 METU course on Philosophy of Computer Science
 
 This is the web home when I teach it. This page is the course syllabus.
 
-<b>Lecturer</b> Cem Bozsahin (Spring 2021)
+<b>Lecturer</b> Cem Bozsahin (Spring 2022)
 
-<b>TA</b> Firat Oter (Spring 2021)
+<b>TA</b> TBA
+
+<b>For registration:</b> I will open the course to COGS students during registration, and to
+all other students during add-drop. HOWEVER, TO ATTEND THE FIRST MEETING BEFORE ADD-DROP, PLEASE
+SEND ME AN EMAIL DETAILING YOUR PROGRAMMING EXPERIENCE AND INTEREST. I WILL SEND YOU THE LOCATION
+AND ONLINE MATERIAL DETAIL. It is always inportant to attend the first meeting.
 
 <b>Catalog Content and Description</b>
 
