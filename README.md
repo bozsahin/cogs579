@@ -74,7 +74,7 @@ The ethic part is the one we will cover in class.
 
 11. D. Knuth (1996). Selected Papers on Computer Science, CSLI.
 
-12. P. Cockshott, L.M. Mackenzie, G. Michaelson (2012). Computation and its limits. Oxford UP.
+12. L. Pape and A. Kok (2011). Real-world limits to algorithmic intelligence. Artificial General Intelligence, Springer, 394-400.
 
 13. D. McDermott (2016). GOFAI considered harmful (and mythical). Ms.
 
