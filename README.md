@@ -20,11 +20,12 @@ AND ONLINE MATERIAL DETAIL. It is important to attend the first meeting.
 
 <b>Catalog Content and Description</b>
 
-Philosophical questions in the practice of computer science in relation to AI and philosophy: what is a computer; what kind of science is computer science; what are the terms of computationalist explanations; are digital and analog computers different in kind; does nature compute? computers and exploration; ethics of computers with or without human in the loop; meta-activity of programming; paradigms of thinking in computer science.
+Philosophical questions in the practice of computer science: what is a computer; what kind of science is computer science; what are the terms of computationalist explanations; are digital and analog computers different in kind; does nature compute? computers and exploration; ethics of computers with or without human in the loop; meta-activity of programming; paradigms of thinking in computer science.
 
 <b>Background Requirements</b>
 
-The course aims to bring together advanced undergraduates and graduates of philosophy, computer science and cognitive science. Advanced undergraduate standing in one of these fields, or studying one of these fields at the graduate level, or having a focus on the topic in a related field (such as physics, mathematics, linguistics, biology) is required. We do not teach programming, and assume that its intellectual aspects (e.g. program and data abstraction) are well-known through first-hand experience.
+The course aims to bring together advanced undergraduates and graduates of philosophy, computer science and cognitive science. Advanced undergraduate standing in one of these fields, or studying one of these fields at the graduate level, or having a focus on the topic in a related field (such as physics, mathematics, linguistics, biology) is required. We do not teach programming, and assume that its intellectual aspects (e.g. program and data abstraction) are well-known through first-hand experience. First-hand experience means being able to program beyond using library functions and packaged tools. You must have gone through one programming design
+experience, no matter how small.
 
 <em>If you have not done programming by designing and writing your own programs, large or small, I advise
 you not to take this course. Using libraries or studying someoneelse'e code do not
