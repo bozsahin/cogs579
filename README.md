@@ -123,7 +123,8 @@ Student conduct: METU student code applies. All quiz, exam etc. are expected to 
 
 <b>Grading</b>
 
-Term report, presentation, weekly quizzes, discussion. Quizzes account for 40% of total grade; others equal weight.
+Term report, presentation, weekly essays, discussion. 11 essays total, 10 max counted toward grade.
+Essays account for 60% of total grade; others equal weight.
 
 -Cem Bozsahin
 
