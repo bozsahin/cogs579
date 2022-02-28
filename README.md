@@ -97,7 +97,7 @@ W5:  Does nature compute?  Representation, the monad  and the computer (7; 14)
 
 W6: Philosophy and computational complexity (5; 8)
 
-(the rest is SUBJECT TO CHANGE per term)
+(the rest is SUBJECT TO CHANGE per term, depending on student topics)
 
 W7: The digital/analog dichotomy fallacy: what is a computer?
 (0:ch.6; 6; 3:ch.24)
