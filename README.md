@@ -9,6 +9,9 @@ This is the web home when I teach it. This page is the course syllabus.
 The course will be face to face. I record the lectures and show videos during lectures, also recorded.
 Physical attendance is not required. But mental attendance, physical or online, is always required.
 
+At any rate, we cannot exceed the physical attendance limit of 16 students in class at any time, as determined
+by the university for the pandemic size of the room.
+
 <b>Lecturer</b> Cem Bozsahin (Spring 2022)
 
 <b>TA</b> TBA
