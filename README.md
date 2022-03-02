@@ -57,7 +57,7 @@ The ethic part is the one we will cover in class.
 
 1. A. Newell, H. Simon (1976). Computer Science as an empirical inquiry. CACM 19: 113-126.
 
-2. H. Simon (1969). The sciences of the artificial. MIT Press.
+2. P. Brey (2000). Disclosive computer ethics. Computers and Society 30(4): 10-16.
 
 3. L. Floridi, ed. (2004). The Philosophy of Computing and Information. Blackwell.
 
