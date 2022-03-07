@@ -14,7 +14,7 @@ by the university for the pandemic size of the room.
 
 <b>Lecturer</b> Cem Bozsahin (Spring 2022)
 
-<b>TA</b> TBA
+<b>TA</b> Firat Oter
 
 <b>For registration:</b> I will open the course to COGS students during registration, and to
 all other students during add-drop. HOWEVER, TO ATTEND THE FIRST MEETING BEFORE ADD-DROP, PLEASE
