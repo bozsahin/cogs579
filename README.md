@@ -50,7 +50,7 @@ The ethic part is the one we will cover in class.
 
 <em>auditorem non adiutorem</em>---Aaron Garrett
 
-1. R. Hill(2014). What an algorithm is. Philosophy & Technology 29.1:35-59, 2016.
+1. R. Hill(2014). What an algorithm is. Philosophy and Technology 29.1:35-59, 2016.
 
 2. Scot Aaronson. Why should philosophers care about computational complexity. In Computability: Gödel, Turing, Church, and beyond. Copeland, Posy, Shagrir (eds). MIT Press.
 
@@ -83,32 +83,31 @@ The ethic part is the one we will cover in class.
 (NB. main readings for references to weekly reads. Number 0 is the textbook.)
 
 W1-2: Why philosophers should care about computer science, 
-         and computer scientists should care about philosophy (0:ch.1-3; 3:ch.1; 11:ch.0-1)
+         and computer scientists should care about philosophy (0:ch.1-3)
 
 W3-4: Programs in our lives; the compute cycle: encoding and decoding versus interpretation
- (10; 13)
+ (9,11)
 
-W5:  Does nature compute?  Representation, the monad  and the computer (7; 14)
+W5:  Does nature compute?  Representation (6,8)
 
-W6: Philosophy and computational complexity (5; 8)
+W6: Clarifying the terms of philosophical discussion: preliminary stuff
+related to  quantum and 'nature computes' (13)
 
-(the rest is SUBJECT TO CHANGE per term, depending on student topics)
+w7: Further clarifying terms of discussion: Programs, intensions and monads (12)
 
-W7: The digital/analog dichotomy fallacy: what is a computer?
-(0:ch.6; 6; 3:ch.24)
+w8: Panel 1: reassessment so far (all of us)
 
-W8-9: Where is computer science in the cycle of scientific revolutions?
-(1; 2; 3:ch.23)
+W9: Hill discussion (led by Seda) (1)
 
-W10-11: Digital ethics and the human in the loop
-(0:part V; 3:ch.5)
+W10: Aaronson discussion (led by Taylan) (2)
 
-W12: Physics and computers: Is information an observable? 
-(3:ch.13; 14; 15)
+W11: Brey discussion (led by Mert) (3)
 
-W13-14: Exploration with the computer: complexity, algorithmic discovery, heuristics (3:ch.7/8/18; 4; 9; 11:ch.4)
+W12: Pape & Kok discussion (led by Niloufar) (4)
 
+W13: Krugel et. al discussion (led by Aysun) (5)
 
+W14: Panel 2: Overall points to take home (all together)
 
 <b>Course Conduct</b>
 
