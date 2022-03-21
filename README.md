@@ -50,6 +50,8 @@ The ethic part is the one we will cover in class.
 
 <em>auditorem non adiutorem</em>---Aaron Garrett
 
+0. The textbook. 
+
 1. R. Hill(2014). What an algorithm is. Philosophy and Technology 29.1:35-59, 2016.
 
 2. Scot Aaronson. Why should philosophers care about computational complexity. In Computability: Gödel, Turing, Church, and beyond. Copeland, Posy, Shagrir (eds). MIT Press.
