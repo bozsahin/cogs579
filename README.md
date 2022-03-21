@@ -93,7 +93,7 @@ W3-4: Programs in our lives; the compute cycle: encoding and decoding versus int
 W5:  Does nature compute?  Representation (6,8)
 
 W6: Clarifying the terms of philosophical discussion: preliminary stuff
-related to  quantum and 'nature computes' (13)
+related to  quantum and 'nature computes' (13,8)
 
 w7: Further clarifying terms of discussion: Programs, intensions and monads (12)
 
