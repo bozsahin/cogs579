@@ -16,11 +16,6 @@ by the university for the pandemic size of the room.
 
 <b>TA</b> Firat Oter
 
-<b>For registration:</b> I will open the course to COGS students during registration, and to
-all other students during add-drop. HOWEVER, TO ATTEND THE FIRST MEETING BEFORE ADD-DROP, PLEASE
-SEND ME AN EMAIL DETAILING YOUR PROGRAMMING EXPERIENCE AND INTEREST. I WILL SEND YOU THE LOCATION
-AND ONLINE MATERIAL DETAIL. It is important to attend the first meeting.
-
 <b>Catalog Content and Description</b>
 
 Philosophical questions in the practice of computer science: what is a computer; what kind of science is computer science; what are the terms of computationalist explanations; are digital and analog computers different in kind; does nature compute? computers and exploration; ethics of computers with or without human in the loop; meta-activity of programming; paradigms of thinking in computer science.
@@ -55,15 +50,15 @@ The ethic part is the one we will cover in class.
 
 <em>auditorem non adiutorem</em>---Aaron Garrett
 
-1. A. Newell, H. Simon (1976). Computer Science as an empirical inquiry. CACM 19: 113-126.
+1. R. Hill(2014). What an algorithm is. Philosophy & Technology 29.1:35-59, 2016.
 
-2. P. Brey (2000). Disclosive computer ethics. Computers and Society 30(4): 10-16.
+2. Scot Aaronson. Why should philosophers care about computational complexity. In Computability: Gödel, Turing, Church, and beyond. Copeland, Posy, Shagrir (eds). MIT Press.
 
-3. L. Floridi, ed. (2004). The Philosophy of Computing and Information. Blackwell.
+3. P. Brey (2000). Disclosive computer ethics. Computers and Society 30(4): 10-16.
 
-4. Raymond Turner (2008). The philosophy of computer science. Journal of Applied Logic 6:459.
+4. L. Pape and A. Kok (2011). Real-world limits to algorithmic intelligence. Artificial General Intelligence, Springer, 394-400.
 
-5. Scot Aaronson. Why should philosophers care about computational complexity. In Computability: Gödel, Turing, Church, and beyond. Copeland, Posy, Shagrir (eds). MIT Press.
+5. Krugel, Ostenmaier, Uhl. (2022). Zombies in the loop? Philosophy and Technology.
 
 6. C. Bozsahin, (2018). Computers aren’t syntax all the way down or content all the way up. Minds & Machines 28:543-567.
 
@@ -71,19 +66,16 @@ The ethic part is the one we will cover in class.
 
 8. C. Bozsahin (2016). What is a computational constraint? In Computing & Philosophy, p.3-16, V. Muller (ed.), Springer.
 
-9. R. Hill(2014). What an algorithm is. Philosophy & Technology 29.1:35-59, 2016.
+9. C. Horsman, S. Stepney S, R. Wagner R, V. Kendon. (2014). When does a physical system compute? Proc.     Royal Society A, 470:20140182.
 
-10. C. Horsman, S. Stepney S, R. Wagner R, V. Kendon. (2014). When does a physical system compute? Proc.     Royal Society A, 470:20140182.
+10. D. Knuth (1996). Selected Papers on Computer Science, CSLI.
 
-11. D. Knuth (1996). Selected Papers on Computer Science, CSLI.
 
-12. L. Pape and A. Kok (2011). Real-world limits to algorithmic intelligence. Artificial General Intelligence, Springer, 394-400.
+11. D. McDermott (2016). GOFAI considered harmful (and mythical). Ms.
 
-13. D. McDermott (2016). GOFAI considered harmful (and mythical). Ms.
+12. P. Wadler (1997). How to declare an imperative. ACM Computing Surveys, 29:3, 240-263.
 
-14. P. Wadler (1997). How to declare an imperative. ACM Computing Surveys, 29:3, 240-263.
-
-15. E. Rieffel, P. Wolfgang (2000). An introduction to quantum computing for non-physicists. ACM Computing Surveys, 32:3, 300-335.
+13. E. Rieffel, P. Wolfgang (2000). An introduction to quantum computing for non-physicists. ACM Computing Surveys, 32:3, 300-335.
 
 
 <b>Weekly Course Outline</b> 
