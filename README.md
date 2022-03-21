@@ -52,9 +52,9 @@ The ethic part is the one we will cover in class.
 
 0. The textbook. 
 
-1. R. Hill(2014). What an algorithm is. Philosophy and Technology 29.1:35-59, 2016.
+1. R. Hill (2014). What an algorithm is. Philosophy and Technology 29.1:35-59, 2016.
 
-2. Scot Aaronson. Why should philosophers care about computational complexity. In Computability: Gödel, Turing, Church, and beyond. Copeland, Posy, Shagrir (eds). MIT Press.
+2. Scot Aaronson (2011). Why should philosophers care about computational complexity. In Computability: Gödel, Turing, Church, and beyond. Copeland, Posy, Shagrir (eds). MIT Press.
 
 3. P. Brey (2000). Disclosive computer ethics. Computers and Society 30(4): 10-16.
 
@@ -71,7 +71,6 @@ The ethic part is the one we will cover in class.
 9. C. Horsman, S. Stepney S, R. Wagner R, V. Kendon. (2014). When does a physical system compute? Proc.     Royal Society A, 470:20140182.
 
 10. D. Knuth (1996). Selected Papers on Computer Science, CSLI.
-
 
 11. D. McDermott (2016). GOFAI considered harmful (and mythical). Ms.
 
