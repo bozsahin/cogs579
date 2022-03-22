@@ -96,7 +96,7 @@ related to  quantum and 'nature computes' (13,8)
 
 w7: Further clarifying terms of discussion: Programs, intensions and monads (12)
 
-w8: Panel 1: reassessment so far (all of us)
+W8: Panel 1: assessment so far (all of us)
 
 W9: Hill discussion (led by Seda) (1)
 
