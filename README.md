@@ -94,7 +94,7 @@ W5:  Does nature compute?  Representation (6,8)
 W6: Clarifying the terms of philosophical discussion: preliminary stuff
 related to  quantum and 'nature computes' (13,8)
 
-w7: Further clarifying terms of discussion: Programs, intensions and monads (12)
+W7: Further clarifying the terms of discussion: Programs, intensions and monads (12)
 
 W8: Panel 1: assessment so far (all of us)
 
