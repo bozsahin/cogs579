@@ -83,32 +83,34 @@ The ethic part is the one we will cover in class.
 
 (NB. main readings for references to weekly reads. Number 0 is the textbook.)
 
-W1-2: Why philosophers should care about computer science, 
+W1: Why philosophers should care about computer science, 
          and computer scientists should care about philosophy (0:ch.1-3)
 
-W3-4: Programs in our lives; the compute cycle: encoding and decoding versus interpretation
+W2-3: Programs in our lives; the compute cycle: encoding and decoding versus interpretation
  (9,11)
 
-W5:  Does nature compute?  Representation (6,8)
+W4:  Does nature compute?  Representation (6,8)
 
-W6: Clarifying the terms of philosophical discussion: preliminary stuff
+W5: Clarifying the terms of philosophical discussion: preliminary stuff
 related to  quantum and 'nature computes' (13,8)
 
-W7: Further clarifying the terms of discussion: Programs, intensions and monads (12)
+W6: Further clarifying the terms of discussion: Programs, intensions and monads (12)
 
-W8: Panel 1: assessment so far (all of us)
+W7: Panel 1: assessment so far (all of us)
+
+W8: Aaronson discussion (led by Taylan) (2)
 
 W9: Hill discussion (led by Seda) (1)
 
-W10: Aaronson discussion (led by Taylan) (2)
+W10: Brey discussion (led by Mert) (3)
 
-W11: Brey discussion (led by Mert) (3)
+W11: Pape & Kok discussion (led by Niloufar) (4)
 
-W12: Pape & Kok discussion (led by Niloufar) (4)
+W12: Krugel et. al discussion (led by Aysun) (5)
 
-W13: Krugel et. al discussion (led by Aysun) (5)
+W13: Panel 2: Overall points to take home (all together)
 
-W14: Panel 2: Overall points to take home (all together)
+W14: Wrap up: panel with external participants
 
 <b>Course Conduct</b>
 
