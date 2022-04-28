@@ -78,6 +78,8 @@ The ethic part is the one we will cover in class.
 
 13. E. Rieffel, P. Wolfgang (2000). An introduction to quantum computing for non-physicists. ACM Computing Surveys, 32:3, 300-335.
 
+14. A. Birhane (2021). Algorithmic injustice: a relational ethics approach.
+Patterns 2, February.
 
 <b>Weekly Course Outline</b> 
 
@@ -95,19 +97,17 @@ W5:  Some experiences with the compute cycle (8)
 
 W6: Clarifying the terms of discussion: Programs, from qubits to monads (12, 13)
 
-W7: Panel 1: assessment so far (all of us)
+W7-8: Panel 1: assessment so far (all of us)
 
-W8: Aaronson discussion (led by Taylan) (2)
+W9: Aaronson discussion (led by Taylan) (2)
 
-W9: Hill discussion (led by Seda) (1)
+W10: Hill discussion (led by Seda) (1)
 
-W10: Brey discussion (led by Mert) (3)
+W11: Birhane discussion (led by Alaz) (3)
 
-W11: Pape & Kok discussion (led by Niloufar) (4)
+W12: Pape & Kok discussion (led by Niloufar) (4)
 
-W12: Krugel et. al discussion (led by Aysun) (5)
-
-W13: Panel 2: Overall points to take home (all together)
+W13: Krugel et. al discussion (led by Aysun) (5)
 
 W14: Wrap up: panel with external participants
 
