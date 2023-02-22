@@ -1,20 +1,19 @@
-# cogs579 Spring 2022
+# cogs579 Spring 2023
 
 METU course on Philosophy of Computer Science
 
 This is the web home when I teach it. This page is the course syllabus.
 
-<b>Lectures</b> Tuesdays, 11.40-14.30, at room S03 of the Informatics Institute
+<b>Lectures</b> Tuesdays, 14.40-17.30, at room S03 of the Informatics Institute
 
-The course will be face to face. I record the lectures and show videos during lectures, also recorded.
+The course will start online, then we will see what happens. 
+
+I record the lectures and show videos during lectures, also recorded.
 Physical attendance is not required. But mental attendance, physical or online, is always required.
 
-At any rate, we cannot exceed the physical attendance limit of 16 students in class at any time, as determined
-by the university for the pandemic size of the room.
+<b>Lecturer</b> Cem Bozsahin (Spring 2023)
 
-<b>Lecturer</b> Cem Bozsahin (Spring 2022)
-
-<b>TA</b> Firat Oter
+<b>TA</b> Rojda Ozcan
 
 <b>Catalog Content and Description</b>
 
@@ -35,22 +34,30 @@ count as programming experience in my book. You have to be in programmer's shoes
 At the end of the course, students are expected to assess (a) the potential role of computers in scientific explanation, (b) the nature of computing (algorithms, analogs, etc.), (c) ethical aspects with and without human in the loop, (d) conceptual problems related to computer science.
 
 
-<b>Course Textbook</b> 
+<b>Course Textbooks</b> 
 
-Rapaport, William (2020). Philosophy of Computer Science. OpenLibra.
+1. Rapaport, William (2020). Philosophy of Computer Science. OpenLibra.
 
-The textbook is great for bringing yourself up to speed for the course,
+This textbook is great for bringing yourself up to speed for the course,
 if (a) you know computers but not philosophy, (b) you know philosophy
 but not how computers relate to it. A bit of both I will assume to be common background.
 
 The ethic part is the one we will cover in class.
 
+2. Weizenbaum, Joseph (1976). Computer Power and Human Reason. W.H. Freeman and Company.
 
-<b>Main readings</b> 
+This is a nowadays neglected classic. If you don't have an understanding
+of the inner workings of a computer but know programming, there are great chapters
+here to help you with that. But it's much more than that, outlining a philosophy of
+computer science that seems much relevant today, what with all that transhumanism
+and posthumanism.
+
+
+<b>Main readings (subject to change before classes start)</b> 
 
 <em>auditorem non adiutorem</em>---Aaron Garrett
 
-0. The textbook. 
+0. The textbooks. 
 
 1. R. Hill (2014). What an algorithm is. Philosophy and Technology 29.1:35-59, 2016.
 
