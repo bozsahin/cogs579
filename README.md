@@ -88,7 +88,7 @@ and posthumanism.
 14. A. Birhane (2021). Algorithmic injustice: a relational ethics approach.
 Patterns 2, February.
 
-<b>Weekly Course Outline</b> 
+<b>Weekly Course Outline (subject to change before classes begin)</b> 
 
 (NB. main readings for references to weekly reads. Number 0 is the textbook.)
 
