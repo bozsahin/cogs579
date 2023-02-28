@@ -34,7 +34,7 @@ count as programming experience in my book. You have to be in the programmer's s
 At the end of the course, students are expected to assess (a) the potential role of computers in scientific explanation, (b) the nature of computing (algorithms, analogs, etc.), (c) ethical aspects with and without human in the loop, (d) conceptual problems related to computer science.
 
 
-<b>Course Textbooks</b> 
+<b>Course Textbooks</b> (both are partially covered)
 
 1. Rapaport, William (2020). Philosophy of Computer Science. OpenLibra.
 
