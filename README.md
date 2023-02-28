@@ -4,24 +4,24 @@ METU course on Philosophy of Computer Science
 
 This is the web home when I teach it. This page is the course syllabus.
 
-<b>Lectures</b> Tuesdays, 14.40-17.30.
+<b>Lectures:</b> Tuesdays, 14.40-17.30.
 
 The course will start online, then we will see what happens. 
 
 In any case, I will have an open hour on Thursday, lunchtime. It is face to face, and can be joined online.
 
-I record the lectures and show videos during lectures, also recorded.
+I record the lectures and show videos during lectures.
 Physical attendance is not required. But mental attendance, physical or online, is always required.
 
-<b>Lecturer</b> Cem Bozsahin (Spring 2023)
+<b>Lecturer:</b> Cem Bozsahin (Spring 2023)
 
-<b>TA</b> Erolcan Er
+<b>TA:</b> Erolcan Er
 
-<b>Catalog Content and Description</b>
+<b>Catalog Content and Description:</b>
 
 Philosophical questions in the practice of computer science: what is a computer; what kind of science is computer science; what are the terms of computationalist explanations; are digital and analog computers different in kind; does nature compute? computers and exploration; ethics of computers with or without human in the loop; activity of programming; paradigms of thinking in computer science.
 
-<b>Background Requirements</b>
+<b>Background Requirements:</b>
 
 The course aims to bring together advanced undergraduates and graduates of philosophy, computer science and cognitive science. Advanced undergraduate standing in one of these fields, or studying one of these fields at the graduate level, or having a focus on the topic in a related field (such as physics, mathematics, linguistics, biology) is required. We do not teach programming, and assume that its intellectual aspects (e.g. program and data abstraction) are well-known through first-hand experience. First-hand experience means being able to program beyond using library functions and packaged tools. You must have gone through one programming design
 experience, no matter how small.
@@ -31,12 +31,12 @@ you not to take this course. Using libraries or studying someoneelse'e code do n
 count as programming experience in my book. You have to be in the programmer's shoes in this course.</em>
 
 
-<b>Course Objectives</b>
+<b>Course Objectives:</b>
 
 At the end of the course, students are expected to assess (a) the potential role of computers in scientific explanation, (b) the nature of computing (algorithms, analogs, etc.), (c) ethical aspects with and without human in the loop, (d) conceptual problems related to computer science.
 
 
-<b>Course Textbooks</b> (both are partially covered)
+<b>Course Textbooks:</b> (both are partially covered)
 
 1. Rapaport, William (2020). Philosophy of Computer Science. OpenLibra.
 
@@ -55,7 +55,7 @@ computer science that seems much relevant today, what with all that transhumanis
 and posthumanism.
 
 
-<b>Main readings (subject to change before paper assignment starts, sometime around W5-6)</b> 
+<b>Main readings (subject to change before paper assignment starts, sometime around W5-6):</b> 
 
 <em>auditorem non adiutorem</em>---Aaron Garrett
 
@@ -90,7 +90,7 @@ and posthumanism.
 14. A. Birhane (2021). Algorithmic injustice: a relational ethics approach.
 Patterns 2, February.
 
-<b>Weekly Course Outline (subject to change before classes begin)</b> 
+<b>Weekly Course Outline (subject to change before presentations begin):</b> 
 
 (NB. main readings for references to weekly reads. Number 0 means the textbooks.)
 
@@ -115,7 +115,7 @@ W9-13: Presentations by the students.
 
 W14: Panel 2 (with some invited guests)
 
-<b>Course Conduct</b>
+<b>Course Conduct:</b>
 
 Formal and informal lectures; paper reading/presentation and discussion in class; essay writing off class.
 
@@ -123,7 +123,7 @@ There is a discussion group. Membership is required for registered students. All
 
 Student conduct: METU student code applies. All quiz, exam etc. are expected to be individual <em>effort</em> and wording.
 
-<b>Grading</b>
+<b>Grading:</b>
 
 Term report, presentation, weekly essays, discussion. 10 essays total, 9 max counted toward grade.
 Essays account toward 63% of the total grade; others are equal weight.
