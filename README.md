@@ -4,9 +4,11 @@ METU course on Philosophy of Computer Science
 
 This is the web home when I teach it. This page is the course syllabus.
 
-<b>Lectures</b> Tuesdays, 14.40-17.30, at room S03 of the Informatics Institute
+<b>Lectures</b> Tuesdays, 14.40-17.30.
 
 The course will start online, then we will see what happens. 
+
+In any case, I will have an open hour on Thursday, lunchtime. It is face to face, and can be joined online.
 
 I record the lectures and show videos during lectures, also recorded.
 Physical attendance is not required. But mental attendance, physical or online, is always required.
