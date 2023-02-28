@@ -53,7 +53,7 @@ computer science that seems much relevant today, what with all that transhumanis
 and posthumanism.
 
 
-<b>Main readings (subject to change before classes start)</b> 
+<b>Main readings (subject to change before papers assignment starts, sometime around W5-6)</b> 
 
 <em>auditorem non adiutorem</em>---Aaron Garrett
 
