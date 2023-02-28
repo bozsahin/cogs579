@@ -13,11 +13,11 @@ Physical attendance is not required. But mental attendance, physical or online, 
 
 <b>Lecturer</b> Cem Bozsahin (Spring 2023)
 
-<b>TA</b> Rojda Ozcan
+<b>TA</b> Erolcan Er
 
 <b>Catalog Content and Description</b>
 
-Philosophical questions in the practice of computer science: what is a computer; what kind of science is computer science; what are the terms of computationalist explanations; are digital and analog computers different in kind; does nature compute? computers and exploration; ethics of computers with or without human in the loop; meta-activity of programming; paradigms of thinking in computer science.
+Philosophical questions in the practice of computer science: what is a computer; what kind of science is computer science; what are the terms of computationalist explanations; are digital and analog computers different in kind; does nature compute? computers and exploration; ethics of computers with or without human in the loop; activity of programming; paradigms of thinking in computer science.
 
 <b>Background Requirements</b>
 
@@ -26,7 +26,7 @@ experience, no matter how small.
 
 <em>If you have not done programming by designing and writing your own programs, large or small, I advise
 you not to take this course. Using libraries or studying someoneelse'e code do not
-count as programming experience in my book. You have to be in programmer's shoes in this course.</em>
+count as programming experience in my book. You have to be in the programmer's shoes in this course.</em>
 
 
 <b>Course Objectives</b>
@@ -90,37 +90,32 @@ Patterns 2, February.
 
 <b>Weekly Course Outline (subject to change before classes begin)</b> 
 
-(NB. main readings for references to weekly reads. Number 0 is the textbook.)
+(NB. main readings for references to weekly reads. Number 0 means the textbooks.)
 
-W1: Why philosophers should care about computer science, 
+W1: Orientation
+
+W2: Why philosophers should care about computer science, 
          and computer scientists should care about philosophy (0:ch.1-3)
 
-W2-3: Programs in our lives; the compute cycle: encoding and decoding versus interpretation
+W3-4: Programs in our lives; the compute cycle: encoding and decoding versus interpretation
  (9,11)
 
-W4:  Does nature compute?  Representation (6,8)
+W5-6:  Some experiences with the compute cycle (8)
 
-W5:  Some experiences with the compute cycle (8)
+  Does nature compute?  Representation (6,8)
 
-W6: Clarifying the terms of discussion: Programs, from qubits to monads (12, 13)
 
-W7-8: Panel 1: assessment so far (all of us)
+W7: Clarifying the terms of discussion: Programs, from qubits to monads (12, 13)
 
-W9: Aaronson discussion (led by Taylan) (2)
+W8: Panel 1: assessment so far (all of us)
 
-W10: Hill discussion (led by Seda) (1)
+W9-13: Presentations by the students.
 
-W11: Birhane discussion (led by Alaz) (3)
-
-W12: Pape & Kok discussion (led by Niloufar) (4)
-
-W13: Krugel et. al discussion (led by Aysun) (5)
-
-W14: Wrap up: panel with external participants
+W14: Panel 2 (with some invited guests)
 
 <b>Course Conduct</b>
 
-Formal and informal lectures; paper reading/presentation and discussion in class; essay writing on and off class.
+Formal and informal lectures; paper reading/presentation and discussion in class; essay writing off class.
 
 There is a discussion group. Membership is required for registered students. All quiz, etc. are announced there.
 
@@ -128,8 +123,8 @@ Student conduct: METU student code applies. All quiz, exam etc. are expected to 
 
 <b>Grading</b>
 
-Term report, presentation, weekly essays, discussion. 11 essays total, 10 max counted toward grade.
-Essays account for 60% of total grade; others equal weight.
+Term report, presentation, weekly essays, discussion. 10 essays total, 9 max counted toward grade.
+Essays account toward 63% of the total grade; others are equal weight.
 
 -Cem Bozsahin
 
