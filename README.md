@@ -59,7 +59,7 @@ and posthumanism.
 
 <em>auditorem non adiutorem</em>---Aaron Garrett
 
-0. The textbooks. 
+0. The textbooks. 0-1 is Rapaport. 0-2 is Weizenbaum.
 
 1. R. Hill (2014). What an algorithm is. Philosophy and Technology 29.1:35-59, 2016.
 
@@ -67,9 +67,10 @@ and posthumanism.
 
 3. P. Brey (2000). Disclosive computer ethics. Computers and Society 30(4): 10-16.
 
-4. L. Pape and A. Kok (2011). Real-world limits to algorithmic intelligence. Artificial General Intelligence, Springer, 394-400.
+4. Kruger, Oliver. (2021). The singularity is near! visions of artificial intelligence in posthumanism and transhumanism. 
+Int. Journal of Interactive Multimedia and Artificial Intelligence 7 (1): 16.
 
-5. Krugel, Ostenmaier, Uhl. (2022). Zombies in the loop? Philosophy and Technology.
+5. Konigs, Peter. (2022). Artificial intelligence and responsibility gaps: what is the problem? Ethics and Information Technology 24 (36): 1–11.
 
 6. C. Bozsahin, (2018). Computers aren’t syntax all the way down or content all the way up. Minds & Machines 28:543-567.
 
@@ -97,7 +98,7 @@ Patterns 2, February.
 W1: Orientation
 
 W2: Why philosophers should care about computer science, 
-         and computer scientists should care about philosophy (0:ch.1-3)
+         and computer scientists should care about philosophy (0-1:ch.1-3)
 
 W3-4: Programs in our lives; the compute cycle: encoding and decoding versus interpretation
  (9,11)
