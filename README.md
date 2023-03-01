@@ -95,7 +95,7 @@ Patterns 2, February.
 
 (NB. main readings for references to weekly reads. Number 0 means the textbooks.)
 
-W1: Orientation
+W1: Orientation (please attend, if you are registered or intend to register. We set the agenda)
 
 W2: Why philosophers should care about computer science, 
          and computer scientists should care about philosophy (0-1:ch.1-3)
