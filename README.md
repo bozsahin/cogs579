@@ -4,6 +4,12 @@ METU course on Philosophy of Computer Science
 
 This is the web home when I teach it. This page is the course syllabus.
 
+NOTE: During registration, the course is open to II students, PHIL and CENG grad students, and CENG
+seniors. I will open to others during ADD/DROP. 
+
+Please send me an email so that I can invite you to the first meeting even if you're not registered.
+If you are eligible, you can register during add/drop.
+
 <b>Lectures:</b> Tuesdays, 14.40-17.30.
 
 The course will start online, then we will see what happens. 
