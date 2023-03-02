@@ -14,7 +14,8 @@ If you are eligible, you can register during add/drop.
 
 The course will start online, then we will see what happens. 
 
-In any case, I will have an open hour on Thursday, lunchtime. It is face to face, and can be joined online.
+In any case, I will have an open hour on Thursday 12.00-14.00, for face to face discussion for those who want it.
+I will try to make it online as well, in case anybody wants to join online. It will not be recorded.
 
 I record the lectures and show videos during lectures.
 Physical attendance is not required. But mental attendance, physical or online, is always required.
