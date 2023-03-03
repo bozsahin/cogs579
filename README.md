@@ -23,7 +23,7 @@ Physical attendance is not required. But mental attendance, physical or online, 
 
 <b>Lecturer:</b> Cem Bozsahin (Spring 2023)
 
-<b>TA:</b> Erolcan Er
+<b>TA:</b> Rojda Ozcan
 
 <b>Catalog Content and Description:</b>
 
