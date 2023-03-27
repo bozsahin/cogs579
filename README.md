@@ -99,6 +99,10 @@ Int. Journal of Interactive Multimedia and Artificial Intelligence 7 (1): 16.
 14. A. Birhane (2021). Algorithmic injustice: a relational ethics approach.
 Patterns 2, February.
 
+15. A. Martin, M. Magnaudet, S. Conversy (2023). Computers as Interactive
+Machines: Can We Build an Explanatory Abstraction? <em>Minds and Machines</em>
+2023.
+
 <b>Weekly Course Outline (subject to change before presentations begin):</b> 
 
 (NB. main readings for references to weekly reads. Number 0 means the textbooks.)
