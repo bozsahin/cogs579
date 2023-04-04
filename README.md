@@ -100,7 +100,7 @@ Int. Journal of Interactive Multimedia and Artificial Intelligence 7 (1): 16.
 Patterns 2, February.
 
 15. A. Martin, M. Magnaudet, S. Conversy (2023). Computers as Interactive
-Machines: Can We Build an Explanatory Abstraction? <em>Minds and Machines</em> 2023.
+Machines: Can We Build an Explanatory Abstraction? <em>Minds and Machines</em>.
 
 <b>Weekly Course Outline (subject to change before presentations begin):</b> 
 
