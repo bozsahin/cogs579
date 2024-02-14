@@ -28,7 +28,7 @@ The course aims to bring together advanced undergraduates and graduates of philo
 experience, no matter how small.
 
 <b>If you have not done programming by designing and writing your own programs, large or small, I advise
-you not to take this course. Using libraries or studying someoneelse'e code or auto-generated code do not
+you NOT to take this course. Using libraries or studying someoneelse'e code or auto-generated code do not
 count as programming experience in my book. You have to be in the programmer's shoes in this course.</b>
 
 
