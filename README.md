@@ -31,6 +31,9 @@ experience, no matter how small.
 you NOT to take this course. Using libraries or studying someoneelse'e code or auto-generated code do not
 count as programming experience in my book. You have to be in the programmer's shoes in this course.</b>
 
+<em>NOTE TO UNDERGRADUATE STUDENTS: This course thrives and in-class discussion and off-class writing.
+It also includes taking responsibility of presenting a paper. We know that you have the right to withdraw
+from a course, but that can disrupt the course. Please think thoroughly before you register for the course. </em>
 
 <b>Course Objectives:</b>
 
