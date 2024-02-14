@@ -10,7 +10,7 @@ seniors. I will open to others during ADD/DROP.
 Please send me an email so that I can invite you to the first meeting even if you're not registered.
 If you are eligible, you can register during add/drop.
 
-<b>Lectures:</b> Thursdays, 11.40-14.30.
+<b>Lectures:</b> Thursdays, 11.40-14.30, at room S03. Second room on the first right, entering through main gate of Informatics.
 
 The course is face to face.
 
@@ -33,6 +33,9 @@ count as programming experience in my book. You have to be in the programmer's s
 
 
 <b>Course Objectives:</b>
+
+What kind of thinking is involved when humans choose to study a problem computationally? This is the general question of the course.
+At thhis day and age, it is inevitable to get into AI issues, and we do so. But this is NOT a course on AI. It's about Computer Science in general.
 
 At the end of the course, students are expected to assess (a) the potential role of computers in scientific explanation, (b) the nature of computing (algorithms, analogs, etc.), (c) ethical aspects with and without human in the loop, (d) conceptual problems related to computer science.
 
