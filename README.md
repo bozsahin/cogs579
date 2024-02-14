@@ -1,4 +1,4 @@
-# cogs579 Spring 2023
+# cogs579 Spring 2024
 
 METU course on Philosophy of Computer Science
 
@@ -33,7 +33,7 @@ count as programming experience in my book. You have to be in the programmer's s
 
 <em>NOTE TO UNDERGRADUATE STUDENTS: This course thrives on in-class discussion and off-class writing.
 It also includes taking responsibility of presenting a paper. We know that you have the right to withdraw
-from a course, but that can disrupt the course. Please think thoroughly before you register for the course. </em>
+from a course, but that can disrupt the course if you withdraw close to your presentation. Please think thoroughly before you register for the course. </em>
 
 <b>Course Objectives:</b>
 
