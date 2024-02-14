@@ -43,7 +43,7 @@ At this day and age, it is inevitable to get into AI issues, and we do so. But t
 At the end of the course, students are expected to assess (a) the potential role of computers in scientific explanation, (b) the nature of computing (algorithms, analogs, etc.), (c) ethical aspects with and without human in the loop, (d) conceptual problems related to computer science.
 
 
-<b>Course Textbooks:</b> (both are partially covered, subject to change in 2024)
+<b>Course Textbooks:</b> (both are partially covered, course reader subject to change in 2024)
 
 1. Rapaport, William (2020). Philosophy of Computer Science. OpenLibra.
 
