@@ -4,24 +4,17 @@ METU course on Philosophy of Computer Science
 
 This is the web home when I teach it. This page is the course syllabus.
 
-NOTE: During registration, the course is open to II students, PHIL and CENG grad students, and CENG
+NOTE: During registration, the course is open to II students, PHIL, BIOL, PHYS and CENG grad students, and CENG
 seniors. I will open to others during ADD/DROP. 
 
 Please send me an email so that I can invite you to the first meeting even if you're not registered.
 If you are eligible, you can register during add/drop.
 
-<b>Lectures:</b> Tuesdays, 14.40-17.30.
+<b>Lectures:</b> Thursdays, 11.40-14.30.
 
-The course will start online, then we will see what happens. 
+The course is face to face.
 
-In any case, I will have an open hour on Thursday 12.00-14.00, for face to face discussion for those who want it.
-I will try to make it online as well, in case anybody wants to join online. 
-In fairness to those who cannot make it face to face, I will try to record it to the best of my abilities.
-
-I record the lectures and show videos during lectures.
-Physical attendance is not required. But mental attendance, physical or online, is always required.
-
-<b>Lecturer:</b> Cem Bozsahin (Spring 2023)
+<b>Lecturer:</b> Cem Bozsahin (Spring 2024)
 
 <b>TA:</b> Rojda Ozcan
 
@@ -44,7 +37,7 @@ count as programming experience in my book. You have to be in the programmer's s
 At the end of the course, students are expected to assess (a) the potential role of computers in scientific explanation, (b) the nature of computing (algorithms, analogs, etc.), (c) ethical aspects with and without human in the loop, (d) conceptual problems related to computer science.
 
 
-<b>Course Textbooks:</b> (both are partially covered)
+<b>Course Textbooks:</b> (both are partially covered, subject to change in 2024)
 
 1. Rapaport, William (2020). Philosophy of Computer Science. OpenLibra.
 
