@@ -35,7 +35,7 @@ count as programming experience in my book. You have to be in the programmer's s
 <b>Course Objectives:</b>
 
 What kind of thinking is involved when humans choose to study a problem computationally? This is the general question of the course.
-At thhis day and age, it is inevitable to get into AI issues, and we do so. But this is NOT a course on AI. It's about Computer Science in general.
+At this day and age, it is inevitable to get into AI issues, and we do so. But this is NOT a course on AI. It's about Computer Science in general.
 
 At the end of the course, students are expected to assess (a) the potential role of computers in scientific explanation, (b) the nature of computing (algorithms, analogs, etc.), (c) ethical aspects with and without human in the loop, (d) conceptual problems related to computer science.
 
