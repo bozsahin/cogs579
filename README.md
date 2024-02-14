@@ -1,6 +1,8 @@
 # cogs579 Spring 2024
+# METU course on Philosophy of Computer Science
 
-METU course on Philosophy of Computer Science
+What kind of thinking is involved when humans choose to study a problem computationally? This is the general question of the course.
+At this day and age, it is inevitable to get into AI issues, and we do so. But this is NOT a course on AI. It's about Computer Science in general.
 
 This is the web home when I teach it. This page is the course syllabus.
 
@@ -36,9 +38,6 @@ It also includes taking responsibility of presenting a paper. We know that you h
 from a course, but that can disrupt the course if you withdraw close to your presentation. Please think thoroughly before you register for the course. </em>
 
 <b>Course Objectives:</b>
-
-What kind of thinking is involved when humans choose to study a problem computationally? This is the general question of the course.
-At this day and age, it is inevitable to get into AI issues, and we do so. But this is NOT a course on AI. It's about Computer Science in general.
 
 At the end of the course, students are expected to assess (a) the potential role of computers in scientific explanation, (b) the nature of computing (algorithms, analogs, etc.), (c) ethical aspects with and without human in the loop, (d) conceptual problems related to computer science.
 
