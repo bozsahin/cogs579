@@ -27,9 +27,9 @@ Philosophical questions in the practice of computer science: what is a computer;
 The course aims to bring together advanced undergraduates and graduates of philosophy, computer science and cognitive science. Advanced undergraduate standing in one of these fields, or studying one of these fields at the graduate level, or having a focus on the topic in a related field (such as physics, mathematics, linguistics, biology) is required. We do not teach programming, and assume that its intellectual aspects (e.g. program and data abstraction) are well-known through first-hand experience. First-hand experience means being able to program beyond using library functions and packaged tools. You must have gone through one programming design
 experience, no matter how small.
 
-<b>If you have not done programming by designing and writing your own programs, large or small, I advise
+<em>NOTE TO ALL STUDENTS: If you have not done programming by designing and writing your own programs, large or small, I advise
 you NOT to take this course. Using libraries or studying someoneelse'e code or auto-generated code do not
-count as programming experience in my book. You have to be in the programmer's shoes in this course.</b>
+count as programming experience in my book. You have to be in the programmer's shoes in this course.</em>
 
 <em>NOTE TO UNDERGRADUATE STUDENTS: This course thrives on in-class discussion and off-class writing.
 It also includes taking responsibility of presenting a paper. We know that you have the right to withdraw
